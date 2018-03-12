@@ -6,6 +6,11 @@ namespace Screen
     {
         static void Main(string[] args)
         {
+            Screen sc = new Screen();
+            sc.Input();
+            sc.Print();
+
+            Console.ReadKey();
         }
     }
 }

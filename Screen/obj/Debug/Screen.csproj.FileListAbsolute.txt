@@ -1,0 +1,6 @@
+E:\Программирование\1.0 Введение. Основы работы с Git\Screen\Screen\bin\Debug\Screen.exe.config
+E:\Программирование\1.0 Введение. Основы работы с Git\Screen\Screen\bin\Debug\Screen.exe
+E:\Программирование\1.0 Введение. Основы работы с Git\Screen\Screen\bin\Debug\Screen.pdb
+E:\Программирование\1.0 Введение. Основы работы с Git\Screen\Screen\obj\Debug\Screen.csproj.CoreCompileInputs.cache
+E:\Программирование\1.0 Введение. Основы работы с Git\Screen\Screen\obj\Debug\Screen.exe
+E:\Программирование\1.0 Введение. Основы работы с Git\Screen\Screen\obj\Debug\Screen.pdb
